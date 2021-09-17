@@ -55,9 +55,9 @@ const { jadibot, stopjadibot, listjadibot } = require('./lib/jadibot')
 
 banChats = true
 offline = false
-targetpc = '6285751056816'
-owner = '6285751056816'
-fake = 'HEXAGONZ'
+targetpc = '6285608625102'
+owner = '6285608625102'
+fake = 'LeonGanz'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -435,7 +435,7 @@ Prefix : 「 MULTI-PREFIX 」
 ► _vote_
 ► _devote_
 
-❏ *SELF-BOT* ❏`
+❏ *YUI-BOT* ❏`
         	fakestatus(menu)
            	break
     case 'delvote':
